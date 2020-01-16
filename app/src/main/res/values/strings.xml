@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Challenges</string>
+    <string name="explore">Explore</string>
+    <string name="myChallenges">My Challenges</string>
+    <string name="textChallenges">Ongoing and upcoming challenges.</string>
+    <string name="join">Join</string>
+    <string name="title1">Starfit Arm Muscle Challenge</string>
+    <string name="description1">20 days left</string>
+    <string name="title2">Starfit Weightlifting Challenge</string>
+    <string name="description2">15 days left</string>
+    <string name="title3">Starfit Sit-Up Challenge</string>
+    <string name="description3">4 days left</string>
+    <string name="buttonConfirm">Confirm Registration</string>
+    <string name="active">Active</string>
+</resources>
